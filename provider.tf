@@ -2,7 +2,6 @@ provider "ibm" {
   /*****************
     OPTIONAL ARGUMENTS
     *****************/
-  ibmcloud_api_key = var.ibmcloud_api_key
   #ibmcloud_timeout          = 60
   #iaas_classic_username     = ""
   #iaas_classic_api_key      = ""
